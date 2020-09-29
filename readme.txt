@@ -47,3 +47,4 @@ olase below code in @xml/network_security_config
 
 
 
+after apk build sign the apk with apk signer
